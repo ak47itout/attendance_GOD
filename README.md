@@ -3,7 +3,7 @@ This bot uses selenium, sql, and python to automatically attend classes and leav
 -----------
 To use this follow the steps
 
-1)unzip the GOD 
+1)unzip the attendance_GOD 
 2)edit in the secrets.py file:- add your email and password in the empty strings in the CREDS dictionary
 3)Prerequisites:
 sqlite3
