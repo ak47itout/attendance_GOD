@@ -1,6 +1,7 @@
 # attendance_GOD
 This bot uses selenium, sql, and python to automatically attend classes and leave them when intended according to schedule.
 -----------
+(I took help from sources like stackoverflow, github and geeksforgeeks to make this)
 To use this follow the steps
 
 1)unzip the attendance_GOD 
